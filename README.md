@@ -13,4 +13,4 @@ The state of the art result, detailed in [SAINT+: Integrating Temporal Features 
 * Use trax's [gin-config](https://github.com/google/gin-config) integration to specify training parameters
 * Display training progress using trax's tensorboard integration
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CalebEverett/riiid_2020/blob/master/riiid-trax-transformer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CalebEverett/riiid_transformer/blob/master/riiid-trax-transformer.ipynb)
